@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Ishan Srivastava](https://github.com/ishan-sriv)
+- Place: New Delhi, India
+- Bio: Developer
+- GitHub: [ishan-sriv](https://github.com/ishan-sriv)
+
